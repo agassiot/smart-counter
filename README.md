@@ -16,7 +16,6 @@
 - [Use](#use)
 - [Credits](#credits)
 - [Features](#features)
-- [Struggles](#struggles)
 - [Links](#links)
         
 
@@ -42,9 +41,6 @@ Andrew Gassiot
 
 Deploy the contract. Run the Hardhat test. Experience the thrill.
 
-### Struggles
-
-Nobody likes configuring webpack
 
 ### Links
 
